@@ -1,1 +1,1 @@
-# Stitch-by-Stitch
+# Stitch by Stitch
