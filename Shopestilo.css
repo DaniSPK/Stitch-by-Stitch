@@ -64,7 +64,7 @@ h1 strong {
 
 .Homepage {
     background: rgb(197, 230, 250);
-    background-image: url('Images/Sewingroomtransparent.png');
+    background-image: url('./Sewingroomtransparent.png');
     background-size: cover;
     background-repeat: no-repeat;
     font-size: xx-large;
