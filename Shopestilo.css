@@ -8,8 +8,8 @@ color: #c29e97;
 }
 
 .header {
-    background: #c29e97;
-    color: white;
+    background: white;
+    color: #c29e97;
     display: flex;
     justify-content: space-between;
     height: 90px;
