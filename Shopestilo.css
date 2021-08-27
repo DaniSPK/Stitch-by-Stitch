@@ -79,3 +79,9 @@ h1 strong {
     image-rendering: 2.5;
 }
 
+.productos {
+display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
