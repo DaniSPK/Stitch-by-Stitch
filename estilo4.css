@@ -1,0 +1,249 @@
+*{
+    margin: 0px;
+}
+
+body {
+background-color:white;
+color: #b08179;
+}
+
+.header {
+    background: #c29e97;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.Brand {
+color: #b08179;
+font-size: 75px;
+}
+
+.Enter {
+    color: #b08179;
+}
+
+.logo {
+    padding: 10px;
+}
+
+
+
+.header a {
+color: white;
+text-decoration: none;
+height: inherit;
+display: flex;
+align-items: center;
+padding: 0px 10px;
+}
+
+.header li {
+    height: inherit;
+}
+
+.menu {
+    height: inherit;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+}
+
+h1 {
+    font-family: 'Raleway Dots';
+    font-size: 30px;
+}
+
+h1 strong {
+    color: #99cc00;
+}
+
+.Homepage {
+    background: rgb(197, 230, 250);
+    background-image: url('Images/FotoCostura.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: xx-large;
+    text-align: center;
+    padding: 100px;
+    margin: 0px 0px 100px 0px;
+}
+
+.Homepage img {
+    width: 100px;
+    margin: 20px;
+}
+
+.Homepage-Button {
+    width: 250px;
+    height: 40px;
+    background-color: #c29e97;
+    border-radius: 24px;
+    border: none;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Josefin Slab', serif;
+    padding-top: 8.5px;
+}
+
+
+.padre {
+    background: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    color: #b08179;
+    font-family: 'Josefin Slab', serif;
+    font-size: 30px;
+}
+
+.hijo {
+    background: #c29e97;
+    width: auto;
+    height: auto;
+    border: 2px solid white;
+    font-size: 12px;
+    margin: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Josefin Slab', serif;
+    padding: 10px;
+}
+
+.AO {
+    font-size: 35px;
+    padding: 50px 0px 30px 0px;
+}
+
+.OM {
+    font-size: 35px;
+    padding: 50px 0px 30px 0px;
+}
+
+.Button {
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 24px;
+    border: none;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    color: #c29e97;
+}
+
+
+.Reviews {
+    font-size: 40px;
+    text-align: center;
+    padding: 80px 10px 10px 10px;
+    margin: 100px 10px 10px 10px;
+    font-family: 'Raleway Dots';
+}
+
+
+.Names {
+    font-size: 30px;
+}
+.abuela{
+    color: #b08179;
+    margin-top:-50px;
+}
+.madre {
+    background-color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    color: #b08179;
+    font-family: 'Josefin Slab', serif;
+    font-size: 30px;
+    margin: 30px;
+
+}
+
+.hija {
+    background: #f5f0f0;
+    width: 430px;
+    height: 200px;
+    border: 6px solid #ffffff;
+    font-size: 10px;
+    color: #8d716b;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Josefin Slab', serif;
+    padding: 10px;
+}
+
+/*
+.Buy {
+    height: 500px;
+    background-color: #b08179;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+}
+*/
+
+.BuyingDetails {
+    width: 50%;
+    height: inherit;
+}
+
+
+.AboutUs {background: #f4e3e0;
+    text-align: left;
+    margin: 10px 0px;
+    padding: 100px;
+    font-size: x-large;
+}
+
+.FontTexts {
+    font-family: 'Josefin Slab', serif;
+}
+
+.OurMission { background: #f8ecea;
+text-align: left;
+margin: 10px 0px;
+padding: 100px;
+font-size: x-large;
+}
+
+.ContactUs {background: #fbf5f4;
+    text-align: right;
+    margin: 10px 0px 0px;
+    padding: 100px;
+    font-size: x-large;
+}
+
+.Sophia {
+    font-family: 'Josefin Slab', serif;
+    background-color: #b08179;
+    color: white;
+    font-size: 1.5em;
+}
+
