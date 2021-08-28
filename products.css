@@ -34,6 +34,12 @@ border-radius: 10px;
 box-shadow: 2px 2px 10px black;
 }
 
+.product div p {
+    padding: 30px;
+    margin: 10px;
+    color: #8d716b;
+}
+
 .header {
     background: #c29e97;
     color: white;
