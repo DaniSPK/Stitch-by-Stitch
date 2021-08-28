@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    font-family: 'Josefin Slab', serif; 
 }
 
 body {
@@ -37,6 +38,7 @@ height: inherit;
 display: flex;
 align-items: center;
 padding: 0px 10px;
+width: 50px;
 }
 
 .header li {
