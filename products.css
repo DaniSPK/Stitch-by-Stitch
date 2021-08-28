@@ -14,7 +14,7 @@ color: #c29e97;
 
 h2{
 text-align: center;
-color: #c29e97;
+color: #8d716b;
 font-size: 30px;
 font-family: 'Josefin Slab', serif;
 padding: 30px;
@@ -24,14 +24,14 @@ margin: 10px;
 .product div{
 display: flex;
 align-items: center;
-color: #c29e97;
-
+color: #8d716b;
+font-size: x-large;
 }
 
 .product div img{
 margin: 10px;
 border-radius: 10px;
-box-shadow: 2px 2px 10px black;
+box-shadow: 2px 2px 10px lightgrey;
 }
 
 .product div p {
