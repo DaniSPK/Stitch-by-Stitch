@@ -8,7 +8,8 @@ width: 100%;
 display: flex;
 flex-direction: column;
 align-items: center;
-background: #c29e97;
+background: white;
+color: #c29e97;
 }
 
 h2{
