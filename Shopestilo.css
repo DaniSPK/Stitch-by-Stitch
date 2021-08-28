@@ -84,17 +84,21 @@ display: flex;
     align-items: center;
     justify-content: space-around;
     width: 100%;
+    flex-wrap: wrap;
 }
 
 .productos div a {
-    background: #c29e97;
-    color: white;
-    padding: 5px 50px;
-    border-radius: 20px;
-    display: inline-block;
-    outline: none;
-    border: none;
-    width: fit-content;
+   background: white;
+    border-radius: 10px;
+    padding: 2px 60px;
+    text-decoration: none;
+    color: #c29e97;
+    font-family: 'Josefin Slab', serif;
+}
+
+.productos div p {
+    padding: 10px 0px;
+    font-family: 'Josefin Slab', serif;
 }
 
 .productos div{
@@ -104,6 +108,7 @@ display: flex;
     margin: 0 10px;
     box-shadow: 5px 5px 30px black;
     border-radius: 10px;
+    padding-bottom: 20px;
 }
 
 .productos div img {
